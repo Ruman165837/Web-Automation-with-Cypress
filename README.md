@@ -42,7 +42,7 @@ Overall, Cypress is a powerful and efficient tool for web automation that can he
 1. Visit https:https://web.hishabee.business/
 2. Login & Logout with valid-user
 3. Create a new shop
-4.Switch to another shop
+4. Switch to another shop
 
 
 ## Test case check list based on the Scenerio:
