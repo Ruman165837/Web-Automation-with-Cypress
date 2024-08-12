@@ -47,8 +47,8 @@ Overall, Cypress is a powerful and efficient tool for web automation that can he
 
 ## Test case check list based on the Scenerio:
 
-- User Login with valid credential.
-- User makes an appointment.
+- User Login with valid credentials.
+- User can create a new shop & switch to another shop.
 
 ## Mocha Awesome Report:
 
