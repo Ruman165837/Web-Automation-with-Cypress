@@ -51,10 +51,14 @@ Overall, Cypress is a powerful and efficient tool for web automation that can he
 - User can create a new shop & switch to another shop.
 
 ## Mocha Awesome Report:
-
-https://github.com/Ruman165837/Web-Automation-with-Cypress/blob/master/cypress/reports/html/index.html
+<img width="940" alt="Cypress_Report" src="https://github.com/user-attachments/assets/c7d37cb0-1f60-492c-bb49-fbf285068db1">
 
 ## Automation Output Video:
 
-https://github.com/Ruman165837/Web-Automation-with-Cypress/blob/master/cypress/videos/login.cy.js.mp4
-https://github.com/Ruman165837/Web-Automation-with-Cypress/blob/master/cypress/videos/shop.cy.js.mp4
+
+https://github.com/user-attachments/assets/3917e55b-e8de-405e-b38c-e0acbc1397dc
+
+
+
+https://github.com/user-attachments/assets/87652a85-eb10-48f3-a133-a0607004a7c7
+
